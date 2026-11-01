@@ -1,1 +1,2 @@
-servidor_dns=192.0.2.10
+servidor_dns_primario=192.0.2.10
+servidor_dns_secundario=192.0.2.53
